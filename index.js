@@ -13,10 +13,15 @@ var something = (function () {
 
   }
 
+  function fourthTemp() {
+
+  }
+
   return {
     temp: temp,
     secondTemp: secondTemp,
-    thirdTemp: thirdTemp
+    thirdTemp: thirdTemp,
+    fourthTemp: fourthTemp
   };
 
 })();
