@@ -5,8 +5,13 @@ var something = (function () {
 
   }
 
+  function secondTemp() {
+
+  }
+
   return {
-    temp: temp
+    temp: temp,
+    secondTemp: secondTemp
   };
 
 })();
