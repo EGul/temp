@@ -3,4 +3,8 @@
 
   'use strict';
 
+  function something () {
+    
+  }
+
 })();
