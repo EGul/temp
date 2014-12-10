@@ -9,9 +9,14 @@ var something = (function () {
 
   }
 
+  function thirdTemp() {
+
+  }
+
   return {
     temp: temp,
-    secondTemp: secondTemp
+    secondTemp: secondTemp,
+    thirdTemp: thirdTemp
   };
 
 })();
