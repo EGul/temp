@@ -15,4 +15,6 @@ var something = (function () {
 
   'use strict';
 
+  something.temp();
+
 })();
