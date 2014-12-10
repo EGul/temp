@@ -5,23 +5,8 @@ var something = (function () {
 
   }
 
-  function secondTemp() {
-
-  }
-
-  function thirdTemp() {
-
-  }
-
-  function fourthTemp() {
-
-  }
-
   return {
-    temp: temp,
-    secondTemp: secondTemp,
-    thirdTemp: thirdTemp,
-    fourthTemp: fourthTemp
+    temp: temp
   };
 
 })();
@@ -29,6 +14,5 @@ var something = (function () {
 (function () {
 
   'use strict';
-
 
 })();
